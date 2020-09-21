@@ -1,17 +1,24 @@
 package data.test;
 
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 public class Test {
 	
 	public static void main(String[] args) {
-		List<Map<String, Object>> list = new ArrayList<Map<String, Object>>();
-		list.size()
+		List<Integer> list = new ArrayList<Integer>();
+		list.add(1);
+		list.add(2);
+		list.add(3);
+		list.add(4);
+		list.add(5);
+		list.add(6);
+		list.remove(new Integer(6));
+		System.out.println("大小："+list.size());
+		System.out.println("大小："+list.get(5));
+		
+		/*List<Map<String, Object>> list = new ArrayList<Map<String, Object>>();
+		
 		 Map<String, Object> map1 = new HashMap<String, Object>();
 	        map1.put("name", "p");
 	        map1.put("cj", "5");
@@ -40,7 +47,7 @@ public class Test {
         System.out.println("-------------------");
         for (Map<String, Object> map : list) {
             System.out.println(map.get("cj"));
-        }
+        }*/
 
 	}
 
