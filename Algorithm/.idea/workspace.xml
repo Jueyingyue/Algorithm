@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbffe232-c472-4234-b46b-42b9db7831a1" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="119" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/profession/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\profession\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a9Y0ShvFrlm4pTkOAardfUjKEg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="F:/浏览器下载/view-picture-engine" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.BubbleLinkSort">
+    <configuration name="BubbleLinkSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data.sort.link.BubbleLinkSort" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.sort.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="data.sort.InsertSort" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.structure.heap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderHeap" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="data.structure.heap.OrderHeap" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.OrderHeap" />
+      <item itemvalue="Application.InsertSort" />
+      <item itemvalue="Application.BubbleLinkSort" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BubbleLinkSort" />
+        <item itemvalue="Application.InsertSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbffe232-c472-4234-b46b-42b9db7831a1" name="默认更改列表" comment="" />
+      <created>1586149053739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586149053739</updated>
+      <workItem from="1586149071450" duration="246000" />
+      <workItem from="1586150998550" duration="13112000" />
+      <workItem from="1586270873706" duration="4288000" />
+      <workItem from="1586306162740" duration="25242000" />
+      <workItem from="1586443536021" duration="660000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="281" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586356198576">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="281" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586356198576" />
+    <state x="552" y="178" key="#项目结构" timestamp="1586151082480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1586151082480" />
+    <state width="374" height="466" key="DebuggerActiveHint" timestamp="1586152126893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="374" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1586152126893" />
+    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1586485090685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586485090685" />
+    <state width="1877" height="339" key="GridCell.Tab.0.bottom" timestamp="1586360608413">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586360608413" />
+    <state width="1877" height="339" key="GridCell.Tab.0.center" timestamp="1586360608413">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586360608413" />
+    <state width="1877" height="339" key="GridCell.Tab.0.left" timestamp="1586360608412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586360608412" />
+    <state width="1877" height="339" key="GridCell.Tab.0.right" timestamp="1586360608413">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586360608413" />
+    <state width="1877" height="339" key="GridCell.Tab.1.bottom" timestamp="1586360608493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586360608493" />
+    <state width="1877" height="339" key="GridCell.Tab.1.center" timestamp="1586360608493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586360608493" />
+    <state width="1877" height="339" key="GridCell.Tab.1.left" timestamp="1586360608493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586360608493" />
+    <state width="1877" height="339" key="GridCell.Tab.1.right" timestamp="1586360608493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586360608493" />
+    <state x="759" y="98" key="SettingsEditor" timestamp="1586149268251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="98" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586149268251" />
+    <state x="633" y="119" width="654" height="801" key="find.popup" timestamp="1586332237408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="633" y="119" width="654" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586332237408" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1586342805152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586342805152" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Algorithm$OrderHeap.ic" NAME="OrderHeap Coverage Results" MODIFIED="1586151465872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Algorithm$StepMethod.ic" NAME="StepMethod Coverage Results" MODIFIED="1586167361595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>data.structure.heap.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Algorithm$InsertSort.ic" NAME="InsertSort Coverage Results" MODIFIED="1586326092096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>data.sort.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Algorithm$LinkHeap.ic" NAME="LinkHeap Coverage Results" MODIFIED="1586152281870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>data.structure.heap.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Algorithm$BubbleSort.ic" NAME="BubbleSort Coverage Results" MODIFIED="1586273525837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>data.sort.*</FILTER>
+    </SUITE>
+  </component>
+</project>
